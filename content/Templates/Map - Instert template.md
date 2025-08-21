@@ -1,3 +1,17 @@
+```
+---
+title: Example Title
+draft: false
+tags:
+  - example-tag
+---
+```
+
+---
+mapCalc1: NaN
+---
+
+
 ---
 map_height_y: 2048
 map_width_x: 1642

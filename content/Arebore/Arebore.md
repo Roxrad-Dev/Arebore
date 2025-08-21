@@ -1,3 +1,11 @@
+```
+---
+title: Arebore
+draft: false
+tags:
+  - Arebore, Map
+---
+```
 [[Arebore.png]]
 
 ```leaflet  

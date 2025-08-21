@@ -1,3 +1,11 @@
+```
+---
+title: Example Title
+draft: false
+tags:
+  - example-tag
+---
+```
 > [!infobox]
 > # Nom
 > ![[Image.png|cover small]]
