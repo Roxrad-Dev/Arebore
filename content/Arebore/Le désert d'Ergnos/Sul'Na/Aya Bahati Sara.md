@@ -1,3 +1,14 @@
+---
+title: Aya Bahati Sara
+draft: false
+tags:
+  - Aya
+  - Bahati
+  - Sara
+  - Empereur
+  - Dragon
+  - Sulna
+---
 > [!infobox]
 > # Aya Bahati Sara, fille du dragon d’argent et du dragon d’azur
 > ![[Image.png|cover hsmall]]

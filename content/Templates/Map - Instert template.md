@@ -1,17 +1,3 @@
-```
----
-title: Example Title
-draft: false
-tags:
-  - example-tag
----
-```
-
----
-mapCalc1: NaN
----
-
-
 ---
 map_height_y: 2048
 map_width_x: 1642
@@ -48,3 +34,14 @@ scale: 0.09328358208955223 ### Real units/px (resolution) of your map
 recenter: false  
 darkmode: false ### marker
 ```
+
+
+REPLACE CALCULATOR WITH THIS:
+
+---
+title: Example Title
+draft: true
+tags:
+  - Name
+  - Map
+---

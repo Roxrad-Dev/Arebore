@@ -1,3 +1,13 @@
+---
+title: Le conseil chromatique
+draft: False
+tags:
+  - Conseil
+  - Chromatique
+  - Gouvernement
+  - Eschal
+  - Ergnos
+---
 > [!infobox]
 > # Le conseil chromatique
 > ![[Image.png|cover small]]

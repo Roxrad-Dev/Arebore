@@ -1,11 +1,11 @@
-```
 ---
 title: Example Title
 draft: false
 tags:
-  - example-tag
+  - Name
+  - Region
 ---
-```
+
 > [!infobox]
 > # Nom
 > ![[Image.png|cover small]]

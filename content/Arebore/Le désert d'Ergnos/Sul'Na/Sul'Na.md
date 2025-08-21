@@ -1,3 +1,10 @@
+---
+title: Sul'Na
+draft: false
+tags:
+  - SulNa
+  - Ergnos
+---
 > [!infobox]
 > # Sul’Na
 > ![[Image.png|cover hsmall]]

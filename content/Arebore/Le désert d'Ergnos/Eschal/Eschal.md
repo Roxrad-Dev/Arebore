@@ -1,3 +1,12 @@
+---
+title: Eschal
+draft: false
+tags:
+  - Eschal
+  - Ergnos
+---
+
+
 > [!infobox]
 > # Eschal
 > ![[Image.png|cover hsmall]]
