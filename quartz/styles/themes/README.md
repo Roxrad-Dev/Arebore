@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tokyo Night
 
 - Theme: Tokyo Night
@@ -6,6 +7,16 @@
 ## Preview
 
 [Open live preview (Quartz)](https://quartz-themes.github.io/tokyo-night/)
+=======
+# ITS Theme
+
+- Theme: ITS Theme
+- Author: <a href="https://github.com/SlRvb" target="_blank" rel="noopener noreferrer">SlRvb</a>
+
+## Preview
+
+[Open live preview](https://quartz-themes.github.io/its-theme/)
+>>>>>>> parent of f9545ff (Quartz sync: Aug 22, 2025, 12:30 AM)
 
 [Open live preview (Publish)](https://publish.saberzero.one/tokyo-night)
 
@@ -15,7 +26,11 @@
 
 ```yaml
 env:
+<<<<<<< HEAD
   THEME_NAME: tokyo-night
+=======
+  THEME_NAME: its-theme
+>>>>>>> parent of f9545ff (Quartz sync: Aug 22, 2025, 12:30 AM)
 ```
 
 ```yaml
@@ -28,7 +43,11 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
+<<<<<<< HEAD
 ./action.sh tokyo-night
+=======
+./action.sh its-theme
+>>>>>>> parent of f9545ff (Quartz sync: Aug 22, 2025, 12:30 AM)
 ```
 
 ### Manual install
